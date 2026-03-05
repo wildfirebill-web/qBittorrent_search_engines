@@ -27,7 +27,7 @@ import urllib.parse
 
 
 class audiobookbay(object):
-    url = 'http://theaudiobookbay.se/'
+    url = 'https://audiobookbay.lu/'
     urls = [
         'http://theaudiobookbay.se/',
         'http://audiobookbay.fi/',
